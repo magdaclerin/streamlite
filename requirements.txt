@@ -154,7 +154,7 @@ six==1.16.0
 smart-open==5.2.1
 smmap==5.0.0
 soupsieve==2.3.1
-spacy==3.4.1
+spacy
 spacy-legacy==3.0.9
 spacy-loggers==1.0.1
 srsly==2.4.4
